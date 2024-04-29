@@ -1,0 +1,26 @@
+# Fdb version 4
+["pdflatex"] 1714417599.36764 "/home/ezdras/Documentos/GitHub/Documento-en-latex/Documento en latex.tex" "Documento en latex.pdf" "Documento en latex" 1714417599.85162 0
+  "/etc/texmf/web2c/texmf.cnf" 1714415266.31261 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/ezdras/Documentos/GitHub/Documento-en-latex/Documento en latex.tex" 1714417202.08024 62 a674d1c12386b3fd7d43386d988c4058 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty" 1705352648 5119 a04a8b68ab4f6ce800a41f7f8012a10e ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty" 1705352648 5048 425739d70251273bf93e3d51f3c40048 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo" 1705352648 8449 f07039d8e4e89f21078d9b5137579bfc ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1636152094 2971 def0b6c1f0b107b3b936def894055589 ""
+  "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb" 1714415600.01803 136101 f533469f523533d38317ab5729d00c8a ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1714415608.09438 5349216 bf3a80e68d946c7acd95ff030fd9bb63 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1714415819 6831122 012974802071c4e485158599ade59f5c ""
+  "Documento en latex.aux" 1714417599.80121 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Documento en latex.tex" 1714417202.08024 62 a674d1c12386b3fd7d43386d988c4058 ""
+  "Paqueterias.tex" 1714417589.66678 90 3359a0458b4368a9fde12cd53763e027 ""
+  (generated)
+  "Documento en latex.aux"
+  "Documento en latex.log"
+  "Documento en latex.pdf"
+  (rewritten before read)

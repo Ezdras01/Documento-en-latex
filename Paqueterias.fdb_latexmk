@@ -1,0 +1,23 @@
+# Fdb version 4
+["pdflatex"] 1714417794.16131 "/home/ezdras/Documentos/GitHub/Documento-en-latex/Paqueterias.tex" "Paqueterias.pdf" "Paqueterias" 1714417794.52195 2
+  "/etc/texmf/web2c/texmf.cnf" 1714415266.31261 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/ezdras/Documentos/GitHub/Documento-en-latex/Paqueterias.tex" 1714417790.27236 120 005c71533c1b04ca108ea9e970dbb0a4 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty" 1704662920 150008 7a05b0fdc0167c04e192003e780ab195 ""
+  "/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex" 1498512262 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
+  "/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf" 1704662920 2704 3e070b7b8970d0a1dd67bedef24aa192 ""
+  "/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def" 1704662920 6948 df63e25be1d2bc35bbad5a0141f41348 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty" 1705352648 5048 425739d70251273bf93e3d51f3c40048 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo" 1705352648 8449 f07039d8e4e89f21078d9b5137579bfc ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1714415819 6831122 012974802071c4e485158599ade59f5c ""
+  "Paqueterias.aux" 1714417794.15752 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Paqueterias.tex" 1714417790.27236 120 005c71533c1b04ca108ea9e970dbb0a4 ""
+  (generated)
+  "Paqueterias.aux"
+  "Paqueterias.log"
+  "Paqueterias.pdf"
+  (rewritten before read)
